@@ -15,7 +15,7 @@ A Telegram bot that allows users to download videos or audio from multiple socia
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/telegram-video-downloader-bot.git
+git clone https://github.com/ridhinva/telegram-video-downloader-bot.git
 cd telegram-video-downloader-bot
 ```
 
